@@ -13,7 +13,7 @@ Dataset Overview
 
 The dataset contains borrower characteristics, loan details, and default history. The key variables are:
 
-person_age: Borrower’s age (numerical).
+``person_age``: Borrower’s age (numerical).
 
 person_income: Annual income in dollars (numerical).
 
